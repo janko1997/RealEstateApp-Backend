@@ -427,3 +427,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/WebAPI/.vs/WebAPI/v16/.suo
+/WebAPI/obj/Debug/netcoreapp3.1/WebAPI.csprojAssemblyReference.cache
